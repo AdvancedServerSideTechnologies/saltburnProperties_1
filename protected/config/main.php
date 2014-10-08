@@ -63,10 +63,10 @@ return array(
 		// uncomment the following to use a MySQL database
 		
 		'db'=>array(
-			'connectionString' => 'mysql:host=mysql.scm.tees.ac.uk;dbname=u0018370a',
+			'connectionString' => 'mysql:host=mysql.scm.tees.ac.uk;dbname=studentID',
 			'emulatePrepare' => true,
-			'username' => 'u0018370a',
-			'password' => 'GY2aNXaN',
+			'username' => 'studentID',
+			'password' => 'mysqlPassword',
 			'charset' => 'utf8',
 		),
 		
